@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/media_record.png</file>
+        <file>images/red_stop_rec.png</file>
+        <file>images/red_play.png</file>
+        <file>images/red_stop.png</file>
+        <file>images/play-normal-red.png</file>
+    </qresource>
+    <qresource prefix="/sounds"/>
+</RCC>
